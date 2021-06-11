@@ -1,0 +1,44 @@
+html,button,input,select,textarea,
+.pure-g [class *= "pure-u"] {
+    font-family: Hack,sans-serif;
+    color:#1B1A17;
+}
+
+body {
+    height:100%;
+    width:100%;
+}
+
+.pure-menu-list {
+    background-color:#FF8303;
+    width:100%;
+    padding:1em;
+}
+
+.hbar {
+    height:100%;
+}
+
+#main_body {
+    padding:1em;
+}
+
+#internal_title {
+    padding-left:35em;
+}
+
+#filler_1 {
+}
+#filler_2 {
+}
+
+.footer {
+    font-size:68.5%;
+    margin-top:47.35em;
+    border-top:1px ;
+}
+
+.footer_text{
+    padding-left:30%;
+}
+
