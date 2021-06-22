@@ -1,44 +1,62 @@
 html,button,input,select,textarea,
 .pure-g [class *= "pure-u"] {
     font-family: Hack,sans-serif;
-    color:#262335;
+    color:#ecebed;
 }
 
 body {
     height:100%;
     width:100%;
 }
+#big_box {
+    height:100%;
+    width:100%;
+}
 
 .pure-menu-list {
     background-color:#495495;
-    width:100%;
+    width:75%;
+    height:10%
+    postion:fixed;
     padding:1em;
 }
 
 .hbar {
-    height:100%;
+    height:4.5%;
 }
 
 #main_body {
-    padding:1em;
+    padding:1.35em;
+    width:100%;
+    height:90.6%;
+    font-size:130%;
+    background-color:#262335;
 }
 
 #internal_title {
     padding-left:35em;
 }
 
-#filler_1 {
-}
-#filler_2 {
+#text_content {
+    margin-top:50px;
+
 }
 
 .footer {
-    font-size:68.5%;
-    margin-top:47.35em;
-    border-top:1px ;
+    position:fixed;
+    left:0;
+    text-align: center;
+    bottom:0;
+    width:100%;
+    background-color:#262335;
 }
 
-.footer_text{
-    padding-left:30%;
+#header {
+    width:98.70%;
 }
 
+#rest{
+    width:100%;
+    height:100%;
+    background-color:#262335;
+}
