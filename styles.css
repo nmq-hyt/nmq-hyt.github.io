@@ -22,8 +22,7 @@ body {
 }
 
 .pure-menu-link {
-    padding:1em;
-    font-size:19px;
+    font-size:21px;
     color:#262335;
 }
 
@@ -41,6 +40,8 @@ body {
 
 #internal_title {
     padding-left:40em;
+    color:#ecebed;
+
 }
 
 #text_content {
