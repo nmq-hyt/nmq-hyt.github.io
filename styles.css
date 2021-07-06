@@ -18,34 +18,34 @@ body {
     width:75%;
     height:10%
     postion:fixed;
-    padding:1em;
+    font-size:20px;
 }
 
 .pure-menu-link {
-    font-size:21px;
+    font-size:20px;
     color:#262335;
 }
 
 .hbar {
-    height:4.5%;
+    height:4.75%;
+    width:100%;
 }
 
 #main_body {
-    padding:1.35em;
+  /*  padding:1.35em; */
     width:100%;
-    height:90.6%;
-    font-size:130%;
+    height:95.2%;
     background-color:#262335;
 }
 
 #internal_title {
-    padding-left:40em;
     color:#ecebed;
 
 }
 
 #text_content {
-    margin-top:50px;
+    margin-top:15px;
+    font-size:17px;
 
 }
 
@@ -59,7 +59,7 @@ body {
 }
 
 #header {
-    width:98.70%;
+    width:100%;
 }
 
 #rest{
